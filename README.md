@@ -1,7 +1,5 @@
 # 📊 Forecasting Femicide in Indonesia
 
-![Banner](https://source.unsplash.com/featured/?crime,investigation)
-
 ## 🚀 Introduction
 This project aims to analyze and predict femicide cases in Indonesia using a dataset compiled from verified news articles and social media reports. The dataset covers cases from September 2023 to September 2024 and predicts trends from August 2024 to August 2025.
 
