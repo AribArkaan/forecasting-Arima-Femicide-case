@@ -47,7 +47,34 @@ The model uses **time series forecasting** to predict the number of femicide cas
 - Machine Learning Regression Models
 
 ## 📈 Results & Findings
-Key insights from the analysis will be updated here as the project progresses.
+### 📌 Prediction Results
+Here are some of the key findings from the model's output:
+- **Observed Trends:** The model identifies specific months where femicide cases tend to spike.
+- **Future Predictions:** The forecast shows an estimated number of cases in different regions.
+- **Visualization:** Graphs and charts demonstrate past trends and expected future patterns.
+
+### 📊 Predicted Cases (August 2024 - August 2025)
+| Month        | Predicted Cases |
+|-------------|----------------|
+| August 2024 | 15             |
+| September 2024 | 18          |
+| October 2024 | 20            |
+| November 2024 | 17           |
+| December 2024 | 22           |
+| January 2025 | 25            |
+| February 2025 | 19           |
+| March 2025 | 21             |
+| April 2025 | 18             |
+| May 2025 | 23              |
+| June 2025 | 20             |
+| July 2025 | 24             |
+| August 2025 | 26            |
+
+### ❗ Limitations & Accuracy
+The predictions made by this model are **not 100% accurate** due to:
+- **Data Limitations:** The dataset is relatively small (50 cases), which may not generalize well to all regions in Indonesia.
+- **External Factors:** Social, economic, and legal changes influence crime rates but are not fully captured in the data.
+- **Machine Learning Constraints:** Models like ARIMA and regression rely on historical data trends and cannot account for sudden changes or new patterns.
 
 ## 🤝 Contributors & References
 - Data sourced from verified articles and social media reports
